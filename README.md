@@ -1,3 +1,8 @@
+# StockApp-react
+React project 
+
+react stock app with rapid api 
+* Virtualization - of needed stocks from NSE - Stock quote 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
